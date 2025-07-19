@@ -26,14 +26,26 @@
         <mxCell id="t2P9NK431EXgRHbs8NCc-49" value="Citas" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="624" y="222" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="t2P9NK431EXgRHbs8NCc-78" value="extended" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="t2P9NK431EXgRHbs8NCc-50" target="t2P9NK431EXgRHbs8NCc-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="t2P9NK431EXgRHbs8NCc-50" value="Sintomas" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="1070" y="433" width="80" height="80" as="geometry" />
+          <mxGeometry x="1100" y="340" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="t2P9NK431EXgRHbs8NCc-77" value="extended" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="t2P9NK431EXgRHbs8NCc-51" target="t2P9NK431EXgRHbs8NCc-50">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="t2P9NK431EXgRHbs8NCc-51" value="Diagnosticos" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="940" y="340" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="t2P9NK431EXgRHbs8NCc-79" value="extended" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="t2P9NK431EXgRHbs8NCc-52" target="t2P9NK431EXgRHbs8NCc-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="t2P9NK431EXgRHbs8NCc-52" value="Enfermedad" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="1240" y="237" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="t2P9NK431EXgRHbs8NCc-80" value="extended" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="t2P9NK431EXgRHbs8NCc-53" target="t2P9NK431EXgRHbs8NCc-55">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="t2P9NK431EXgRHbs8NCc-53" value="Receta" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="1240" y="377" width="80" height="80" as="geometry" />
@@ -41,11 +53,14 @@
         <mxCell id="t2P9NK431EXgRHbs8NCc-54" value="Expediente_Clinico" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="1960" y="50" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="t2P9NK431EXgRHbs8NCc-81" value="exttended" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="t2P9NK431EXgRHbs8NCc-55" target="t2P9NK431EXgRHbs8NCc-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="t2P9NK431EXgRHbs8NCc-55" value="Receta_Contiene" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="1190" y="477" width="80" height="80" as="geometry" />
+          <mxGeometry x="1235" y="530" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="t2P9NK431EXgRHbs8NCc-56" value="Medicamentos" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="1240" y="577" width="80" height="80" as="geometry" />
+          <mxGeometry x="1235" y="710" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="t2P9NK431EXgRHbs8NCc-57" value="Paciente" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="570" y="660" width="80" height="80" as="geometry" />
@@ -111,8 +126,25 @@
         <mxCell id="t2P9NK431EXgRHbs8NCc-72" value="Crea nuevo Signo" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="t2P9NK431EXgRHbs8NCc-71" target="t2P9NK431EXgRHbs8NCc-58">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="t2P9NK431EXgRHbs8NCc-82" value="Crea nuevo medicamento" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="t2P9NK431EXgRHbs8NCc-71" target="t2P9NK431EXgRHbs8NCc-56">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="850" y="687" />
+              <mxPoint x="850" y="750" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="t2P9NK431EXgRHbs8NCc-71" value="Enfermera" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="780" y="657" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t2P9NK431EXgRHbs8NCc-83" value="Recupera lista de Medicamentos" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.588;entryY=1.05;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="t2P9NK431EXgRHbs8NCc-71" target="t2P9NK431EXgRHbs8NCc-56">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="850" y="687" />
+              <mxPoint x="850" y="830" />
+              <mxPoint x="1282" y="830" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
