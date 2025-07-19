@@ -153,6 +153,15 @@
         <mxCell id="jF6U63LFgBR976uN4xmS-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;flowAnimation=1;fillColor=#008a00;strokeColor=#005700;" edge="1" parent="1" source="jF6U63LFgBR976uN4xmS-7" target="jF6U63LFgBR976uN4xmS-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="jF6U63LFgBR976uN4xmS-50" value="Paciente" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="-300" y="130" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jF6U63LFgBR976uN4xmS-51" value="Doctor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="-400" y="-690" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jF6U63LFgBR976uN4xmS-52" value="Secretaria" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="-540" y="-510" width="30" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
